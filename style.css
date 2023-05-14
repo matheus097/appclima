@@ -10,6 +10,10 @@ body {
     background-color: #e7e550; 
     overflow: hidden;  
   }
+  #searchInput{
+    border: 1px solid rgb(75, 75, 214);
+  }
+
   .app {
    height: 100vh;
    margin-top: 10%;
