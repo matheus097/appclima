@@ -1,2 +1,3 @@
 ### Um aplicativo para verificar o clima
-![Captura de Tela (1)](https://user-images.githubusercontent.com/60636732/236350341-cba7510f-1511-4700-bb9e-102d01237b3b.png)
+
+![Captura de Tela (3)](https://github.com/matheus097/appclima/assets/60636732/c6fcb13c-5840-4af3-b848-bf1657038399)
