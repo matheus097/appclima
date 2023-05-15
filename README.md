@@ -1,3 +1,3 @@
-### Um aplicativo para verificar o clima
+### A web page for verification the climate
 
-![Captura de Tela (3)](https://github.com/matheus097/appclima/assets/60636732/c6fcb13c-5840-4af3-b848-bf1657038399)
+![image](https://github.com/matheus097/climateapp/assets/60636732/c21d04c6-d145-48cd-9b39-aa3f699a7a3d)
